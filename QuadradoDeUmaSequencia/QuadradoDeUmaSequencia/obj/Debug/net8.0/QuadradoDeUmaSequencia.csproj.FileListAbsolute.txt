@@ -1,0 +1,15 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\bin\Debug\net8.0\QuadradoDeUmaSequencia.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\bin\Debug\net8.0\QuadradoDeUmaSequencia.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\bin\Debug\net8.0\QuadradoDeUmaSequencia.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\bin\Debug\net8.0\QuadradoDeUmaSequencia.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\bin\Debug\net8.0\QuadradoDeUmaSequencia.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\QuadradoDeUmaSequencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\QuadradoDeUmaSequencia.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\QuadradoDeUmaSequencia.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\QuadradoDeUmaSequencia.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\QuadradoDeUmaSequencia.sourcelink.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\QuadradoDeUmaSequencia.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\refint\QuadradoDeUmaSequencia.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\QuadradoDeUmaSequencia.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\QuadradoDeUmaSequencia.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\QuadradoDeUmaSequencia\QuadradoDeUmaSequencia\obj\Debug\net8.0\ref\QuadradoDeUmaSequencia.dll
