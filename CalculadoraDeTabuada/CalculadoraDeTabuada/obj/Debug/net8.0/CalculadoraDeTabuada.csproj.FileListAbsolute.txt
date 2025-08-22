@@ -1,0 +1,14 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\bin\Debug\net8.0\CalculadoraDeTabuada.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\bin\Debug\net8.0\CalculadoraDeTabuada.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\bin\Debug\net8.0\CalculadoraDeTabuada.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\bin\Debug\net8.0\CalculadoraDeTabuada.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\bin\Debug\net8.0\CalculadoraDeTabuada.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\obj\Debug\net8.0\CalculadoraDeTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\obj\Debug\net8.0\CalculadoraDeTabuada.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\obj\Debug\net8.0\CalculadoraDeTabuada.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\obj\Debug\net8.0\CalculadoraDeTabuada.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\obj\Debug\net8.0\CalculadoraDeTabuada.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\obj\Debug\net8.0\refint\CalculadoraDeTabuada.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\obj\Debug\net8.0\CalculadoraDeTabuada.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\obj\Debug\net8.0\CalculadoraDeTabuada.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeTabuada\CalculadoraDeTabuada\obj\Debug\net8.0\ref\CalculadoraDeTabuada.dll

@@ -1,0 +1,14 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0\CalculadoraDeIMC.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0\CalculadoraDeIMC.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0\CalculadoraDeIMC.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0\CalculadoraDeIMC.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0\CalculadoraDeIMC.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0\CalculadoraDeIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0\CalculadoraDeIMC.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0\CalculadoraDeIMC.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0\CalculadoraDeIMC.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0\CalculadoraDeIMC.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0\refint\CalculadoraDeIMC.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0\CalculadoraDeIMC.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0\CalculadoraDeIMC.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0\ref\CalculadoraDeIMC.dll

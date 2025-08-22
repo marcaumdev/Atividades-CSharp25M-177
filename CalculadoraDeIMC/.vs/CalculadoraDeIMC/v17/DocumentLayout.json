@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\CalculadoraDeIMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DA9F-E031-4D6E-8E5D-3BA8980819D8}|CalculadoraDeIMC\\CalculadoraDeIMC.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\calculadoradeimc\\calculadoradeimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98DA9F-E031-4D6E-8E5D-3BA8980819D8}|CalculadoraDeIMC\\CalculadoraDeIMC.csproj|solutionrelative:calculadoradeimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\CalculadoraDeIMC\\CalculadoraDeIMC\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeIMC\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\CalculadoraDeIMC\\CalculadoraDeIMC\\Program.cs",
+              "RelativeToolTip": "CalculadoraDeIMC\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:24:16.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

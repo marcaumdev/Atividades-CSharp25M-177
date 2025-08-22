@@ -1,0 +1,14 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\bin\Debug\net8.0\FundamentosCSharp.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\refint\FundamentosCSharp.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\FundamentosCSharp.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\FundamentosCSharp\FundamentosCSharp\obj\Debug\net8.0\ref\FundamentosCSharp.dll
