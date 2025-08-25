@@ -1,0 +1,15 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\bin\Debug\net8.0\Atividades Arrays.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\bin\Debug\net8.0\Atividades Arrays.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\bin\Debug\net8.0\Atividades Arrays.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\bin\Debug\net8.0\Atividades Arrays.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\bin\Debug\net8.0\Atividades Arrays.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\Atividades Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\Atividades Arrays.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\Atividades Arrays.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\Atividades Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\Atividades Arrays.sourcelink.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\Atividades Arrays.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\refint\Atividades Arrays.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\Atividades Arrays.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\Atividades Arrays.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades Arrays\Atividades Arrays\obj\Debug\net8.0\ref\Atividades Arrays.dll

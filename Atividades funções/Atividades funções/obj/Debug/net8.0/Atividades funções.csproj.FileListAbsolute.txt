@@ -1,0 +1,15 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\bin\Debug\net8.0\Atividades funções.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\bin\Debug\net8.0\Atividades funções.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\bin\Debug\net8.0\Atividades funções.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\bin\Debug\net8.0\Atividades funções.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\bin\Debug\net8.0\Atividades funções.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\Atividades funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\Atividades funções.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\Atividades funções.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\Atividades funções.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\Atividades funções.sourcelink.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\Atividades funções.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\refint\Atividades funções.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\Atividades funções.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\Atividades funções.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Atividades funções\Atividades funções\obj\Debug\net8.0\ref\Atividades funções.dll

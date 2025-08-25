@@ -1,0 +1,15 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\bin\Debug\net8.0\Arrays e Funções.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\bin\Debug\net8.0\Arrays e Funções.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\bin\Debug\net8.0\Arrays e Funções.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\bin\Debug\net8.0\Arrays e Funções.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\bin\Debug\net8.0\Arrays e Funções.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\Arrays e Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\Arrays e Funções.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\Arrays e Funções.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\Arrays e Funções.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\Arrays e Funções.sourcelink.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\Arrays e Funções.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\refint\Arrays e Funções.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\Arrays e Funções.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\Arrays e Funções.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Arrays e Funções\Arrays e Funções\obj\Debug\net8.0\ref\Arrays e Funções.dll
