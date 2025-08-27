@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Adivinhar_n\u00FAmero_aleat\u00F3rio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1761D9-C1FE-45BB-87ED-0273404250C9}|Adivinhar_n\u00FAmero_aleat\u00F3rio\\Adivinhar_n\u00FAmero_aleat\u00F3rio.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\adivinhar_n\u00FAmero_aleat\u00F3rio\\adivinhar_n\u00FAmero_aleat\u00F3rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1761D9-C1FE-45BB-87ED-0273404250C9}|Adivinhar_n\u00FAmero_aleat\u00F3rio\\Adivinhar_n\u00FAmero_aleat\u00F3rio.csproj|solutionrelative:adivinhar_n\u00FAmero_aleat\u00F3rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Adivinhar_n\u00FAmero_aleat\u00F3rio\\Adivinhar_n\u00FAmero_aleat\u00F3rio\\Program.cs",
+              "RelativeDocumentMoniker": "Adivinhar_n\u00FAmero_aleat\u00F3rio\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Adivinhar_n\u00FAmero_aleat\u00F3rio\\Adivinhar_n\u00FAmero_aleat\u00F3rio\\Program.cs",
+              "RelativeToolTip": "Adivinhar_n\u00FAmero_aleat\u00F3rio\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:37:25.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

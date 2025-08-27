@@ -1,0 +1,15 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\bin\Debug\net8.0\Adivinhar_número_aleatório.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\bin\Debug\net8.0\Adivinhar_número_aleatório.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\bin\Debug\net8.0\Adivinhar_número_aleatório.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\bin\Debug\net8.0\Adivinhar_número_aleatório.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\bin\Debug\net8.0\Adivinhar_número_aleatório.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\Adivinhar_número_aleatório.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\Adivinhar_número_aleatório.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\Adivinhar_número_aleatório.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\Adivinhar_número_aleatório.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\Adivinhar_número_aleatório.sourcelink.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\Adivinhar_número_aleatório.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\refint\Adivinhar_número_aleatório.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\Adivinhar_número_aleatório.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\Adivinhar_número_aleatório.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Adivinhar_número_aleatório\Adivinhar_número_aleatório\obj\Debug\net8.0\ref\Adivinhar_número_aleatório.dll
