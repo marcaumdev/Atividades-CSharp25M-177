@@ -1,0 +1,15 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\bin\Debug\net8.0\Reforco.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\bin\Debug\net8.0\Reforco.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\bin\Debug\net8.0\Reforco.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\bin\Debug\net8.0\Reforco.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\bin\Debug\net8.0\Reforco.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\Reforco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\Reforco.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\Reforco.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\Reforco.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\Reforco.sourcelink.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\Reforco.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\refint\Reforco.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\Reforco.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\Reforco.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\ReforcoFuncoes\Reforco\obj\Debug\net8.0\ref\Reforco.dll
