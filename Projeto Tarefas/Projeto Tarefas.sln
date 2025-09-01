@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto Tarefas", "Projeto Tarefas\Projeto Tarefas.csproj", "{3B25AFFB-4F0D-44C6-B6EF-B666FF669936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B25AFFB-4F0D-44C6-B6EF-B666FF669936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B25AFFB-4F0D-44C6-B6EF-B666FF669936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B25AFFB-4F0D-44C6-B6EF-B666FF669936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B25AFFB-4F0D-44C6-B6EF-B666FF669936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F30E5F-0819-4670-8991-B7957F080292}
+	EndGlobalSection
+EndGlobal

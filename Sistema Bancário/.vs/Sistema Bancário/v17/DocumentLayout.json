@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\sistema banc\u00E1rio\\sistema banc\u00E1rio\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|solutionrelative:sistema banc\u00E1rio\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\sistema banc\u00E1rio\\sistema banc\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|solutionrelative:sistema banc\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\sistema banc\u00E1rio\\sistema banc\u00E1rio\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|solutionrelative:sistema banc\u00E1rio\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\sistema banc\u00E1rio\\sistema banc\u00E1rio\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|solutionrelative:sistema banc\u00E1rio\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\sistema banc\u00E1rio\\sistema banc\u00E1rio\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|solutionrelative:sistema banc\u00E1rio\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\sistema banc\u00E1rio\\sistema banc\u00E1rio\\icontabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930B4ED9-937C-46E7-842A-14E86EB137E6}|Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio.csproj|solutionrelative:sistema banc\u00E1rio\\icontabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema Banc\u00E1rio\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\Program.cs",
+              "RelativeToolTip": "Sistema Banc\u00E1rio\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:42:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Sistema Banc\u00E1rio\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\ContaPoupanca.cs",
+              "RelativeToolTip": "Sistema Banc\u00E1rio\\ContaPoupanca.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:53:31.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\Banco.cs",
+              "RelativeDocumentMoniker": "Sistema Banc\u00E1rio\\Banco.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\Banco.cs",
+              "RelativeToolTip": "Sistema Banc\u00E1rio\\Banco.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:41:08.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Sistema Banc\u00E1rio\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\ContaCorrente.cs",
+              "RelativeToolTip": "Sistema Banc\u00E1rio\\ContaCorrente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:30:02.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Sistema Banc\u00E1rio\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\ContaBancaria.cs",
+              "RelativeToolTip": "Sistema Banc\u00E1rio\\ContaBancaria.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:47:32.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\IContaBancaria.cs",
+              "RelativeDocumentMoniker": "Sistema Banc\u00E1rio\\IContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Sistema Banc\u00E1rio\\Sistema Banc\u00E1rio\\IContaBancaria.cs",
+              "RelativeToolTip": "Sistema Banc\u00E1rio\\IContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:41:29.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

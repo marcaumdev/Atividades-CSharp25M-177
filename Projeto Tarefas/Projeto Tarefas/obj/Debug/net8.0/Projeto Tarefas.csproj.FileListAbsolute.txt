@@ -1,0 +1,15 @@
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\bin\Debug\net8.0\Projeto Tarefas.exe
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\bin\Debug\net8.0\Projeto Tarefas.deps.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\bin\Debug\net8.0\Projeto Tarefas.runtimeconfig.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\bin\Debug\net8.0\Projeto Tarefas.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\bin\Debug\net8.0\Projeto Tarefas.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\Projeto Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\Projeto Tarefas.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\Projeto Tarefas.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\Projeto Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\Projeto Tarefas.sourcelink.json
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\Projeto Tarefas.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\refint\Projeto Tarefas.dll
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\Projeto Tarefas.pdb
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\Projeto Tarefas.genruntimeconfig.cache
+C:\Users\Marcos Vinicius\Desktop\Códigos C#\Projeto Tarefas\Projeto Tarefas\obj\Debug\net8.0\ref\Projeto Tarefas.dll
