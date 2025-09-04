@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|c:\\users\\marcos vinicius\\desktop\\aulas de c#\\correcao_exercicios_poo\\correcao_exercicios_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|solutionrelative:correcao_exercicios_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|c:\\users\\marcos vinicius\\desktop\\aulas de c#\\correcao_exercicios_poo\\correcao_exercicios_poo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|solutionrelative:correcao_exercicios_poo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|c:\\users\\marcos vinicius\\desktop\\aulas de c#\\correcao_exercicios_poo\\correcao_exercicios_poo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|solutionrelative:correcao_exercicios_poo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|c:\\users\\marcos vinicius\\desktop\\aulas de c#\\correcao_exercicios_poo\\correcao_exercicios_poo\\iautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|solutionrelative:correcao_exercicios_poo\\iautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|c:\\users\\marcos vinicius\\desktop\\aulas de c#\\correcao_exercicios_poo\\correcao_exercicios_poo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9AEA-4251-4232-B453-30E27E1D7310}|Correcao_Exercicios_POO\\Correcao_Exercicios_POO.csproj|solutionrelative:correcao_exercicios_poo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Correcao_Exercicios_POO\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\Calculadora.cs",
+              "RelativeToolTip": "Correcao_Exercicios_POO\\Calculadora.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:54:46.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\Usuario.cs",
+              "RelativeDocumentMoniker": "Correcao_Exercicios_POO\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\Usuario.cs",
+              "RelativeToolTip": "Correcao_Exercicios_POO\\Usuario.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:42:57.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAutenticavel.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\IAutenticavel.cs",
+              "RelativeDocumentMoniker": "Correcao_Exercicios_POO\\IAutenticavel.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\IAutenticavel.cs",
+              "RelativeToolTip": "Correcao_Exercicios_POO\\IAutenticavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:40:39.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Correcao_Exercicios_POO\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\Veiculo.cs",
+              "RelativeToolTip": "Correcao_Exercicios_POO\\Veiculo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:29:20.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\Program.cs",
+              "RelativeDocumentMoniker": "Correcao_Exercicios_POO\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\Aulas de C#\\Correcao_Exercicios_POO\\Correcao_Exercicios_POO\\Program.cs",
+              "RelativeToolTip": "Correcao_Exercicios_POO\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:31:56.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
