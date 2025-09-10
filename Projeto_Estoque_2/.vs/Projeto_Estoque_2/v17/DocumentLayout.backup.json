@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{33311044-7E3E-4937-870E-CBE46076B1E7}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\classes\\gerenciadorestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33311044-7E3E-4937-870E-CBE46076B1E7}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\projeto_estoque_2\\projeto_estoque_2\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33311044-7E3E-4937-870E-CBE46076B1E7}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33311044-7E3E-4937-870E-CBE46076B1E7}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\projeto_estoque_2\\projeto_estoque_2\\classes\\produtovestuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33311044-7E3E-4937-870E-CBE46076B1E7}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\classes\\produtovestuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33311044-7E3E-4937-870E-CBE46076B1E7}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\projeto_estoque_2\\projeto_estoque_2\\classes\\produtoeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33311044-7E3E-4937-870E-CBE46076B1E7}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\classes\\produtoeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33311044-7E3E-4937-870E-CBE46076B1E7}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\projeto_estoque_2\\projeto_estoque_2\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33311044-7E3E-4937-870E-CBE46076B1E7}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,46 +40,46 @@
               "RelativeDocumentMoniker": "Projeto_Estoque_2\\Classes\\GerenciadorEstoque.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\GerenciadorEstoque.cs",
               "RelativeToolTip": "Projeto_Estoque_2\\Classes\\GerenciadorEstoque.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwIIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwDEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T12:36:10.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProdutoEletronico.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\ProdutoEletronico.cs",
               "RelativeDocumentMoniker": "Projeto_Estoque_2\\Classes\\ProdutoEletronico.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\ProdutoEletronico.cs",
               "RelativeToolTip": "Projeto_Estoque_2\\Classes\\ProdutoEletronico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA6wBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T12:07:35.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProdutoVestuario.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\ProdutoVestuario.cs",
               "RelativeDocumentMoniker": "Projeto_Estoque_2\\Classes\\ProdutoVestuario.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\ProdutoVestuario.cs",
               "RelativeToolTip": "Projeto_Estoque_2\\Classes\\ProdutoVestuario.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T11:53:46.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Produto.cs",
               "RelativeDocumentMoniker": "Projeto_Estoque_2\\Classes\\Produto.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Produto.cs",
               "RelativeToolTip": "Projeto_Estoque_2\\Classes\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T11:34:38.088Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Projeto_Estoque_2\\Program.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\Projeto_Estoque_2\\Projeto_Estoque_2\\Program.cs",
               "RelativeToolTip": "Projeto_Estoque_2\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAADsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T11:28:14.621Z",
               "EditorCaption": ""

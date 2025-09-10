@@ -11,4 +11,13 @@ public class ProdutoVestuario : Produto
         cor = Cor;
         tamanho = Tamanho;
     }
+
+    public override void ExibirDetalhes()
+    {
+        base.ExibirDetalhes();
+        Console.WriteLine($@"| Modelo: {modelo}
+| Cor: {cor}
+| Tamanho: {tamanho}
+|---------------------------------------");
+    }
 }

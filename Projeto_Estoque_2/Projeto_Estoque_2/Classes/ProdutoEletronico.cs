@@ -10,4 +10,11 @@ public class ProdutoEletronico : Produto
         bateria = Bateria;
     }
 
+    public override void ExibirDetalhes()
+    {
+        base.ExibirDetalhes();
+        Console.WriteLine($@"| Voltagem: {voltagem}
+| Bateria: {(bateria ? "Sim" : "Não")}
+|---------------------------------------");
+    }
 }

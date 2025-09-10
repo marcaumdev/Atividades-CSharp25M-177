@@ -10,7 +10,12 @@ public class GerenciadorEstoque
     {
         id = Id;
         nome = Nome;
-        produtos = new List<Produto>();
+        produtos = new List<Produto>()
+        {
+            new ProdutoEletronico("Celular", 1590, 300, "asdhb7r934ur7", "Bivolt", true),
+             new ProdutoEletronico("Dell G15", 5000, 2435, "NOTE32d723", "Bivolt", true),
+            new ProdutoVestuario("Camisa Brasil", 129.90, 10000, "CAMBR0001", "Camisa 1", "Azul", "P")
+        };
     }
 
     public void ListarProdutos()
@@ -18,9 +23,10 @@ public class GerenciadorEstoque
         if (produtos.Count != 0)
         {
             int cont = 1;
+            Console.WriteLine(" ");
             foreach (Produto produto in produtos)
             {
-                Console.WriteLine($"{cont} - {produto.nome} | {produto.sku}");
+                Console.WriteLine($" ID: {cont} | Nome: {produto.nome} | SKU: {produto.sku} | Quantidade: {produto.quantidade}");
                 cont++;
             }
         }
@@ -29,7 +35,29 @@ public class GerenciadorEstoque
             Console.WriteLine("\nNão há produtos a serem listados!");
         }
     }
+    public void BuscarProdutoPorSKU()
+    {
+        try
+        {
+            Console.Write("\nDigite o SKU do Produto: ");
+            string sku = Console.ReadLine();
+            Produto produtoBuscado = produtos.Find(produto => produto.sku == sku);
+            produtoBuscado.ExibirDetalhes();
+        }
+        catch (Exception)
+        {
 
+            Console.WriteLine("Falha ao encontrar o produto!");
+        }
+
+        //foreach (Produto produto in produtos)
+        //{
+        //    if(produto.sku == sku)
+        //    {
+        //        return produto;
+        //    }
+        //}
+    }
     public bool AdicionarProduto()
     {
         int tipoProduto = 0;
@@ -83,7 +111,6 @@ Qual tipo de produto você deseja cadastrar
         }
 
     }
-
     private Produto coletaDados(int tipoProduto)
     {
         try
@@ -127,7 +154,29 @@ Qual tipo de produto você deseja cadastrar
             return null;
         }
     }
+    public void AtualizarQuantidade()
+    {
+        int idEscolhido;
+        Produto produtoEscolhido;
 
+        ListarProdutos();
+        if (produtos.Count != 0)
+        {
+            Console.Write("Digite o número do produto que deseja atualizar a quantidade: ");
+            try
+            {
+                idEscolhido = int.Parse(Console.ReadLine());
+                produtoEscolhido = produtos[idEscolhido - 1];
+                Console.Write("\nDigite a quantidade atual deste produto: ");
+                int novaQuantidade = int.Parse(Console.ReadLine());
+                produtoEscolhido.AtualizarQuantidade(novaQuantidade);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Entrada inválida tente novamente!");
+            }
+        }
+    }
     public void RemoverProduto()
     {
         int idEscolhido;

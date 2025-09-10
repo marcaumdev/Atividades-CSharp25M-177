@@ -20,6 +20,8 @@ do
 | 1 - Cadastrar um Produto       |
 | 2 - Listar Produtos            |
 | 3 - Remover Produto            |
+| 4 - Atualizar Quantidade       |
+| 5 - Buscar Produto por SKU     |
 | 0 - Sair                       |
 |________________________________|
 |> ");
@@ -57,6 +59,12 @@ do
         //remover produtos
         case 3:
             estoque1.RemoverProduto();
+            break;
+        case 4:
+            estoque1.AtualizarQuantidade();
+            break;
+        case 5:
+            estoque1.BuscarProdutoPorSKU();
             break;
     }
 
