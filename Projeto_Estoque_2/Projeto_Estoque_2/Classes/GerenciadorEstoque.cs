@@ -58,6 +58,21 @@ public class GerenciadorEstoque
         //    }
         //}
     }
+    public void BuscarProdutoPorNome()
+    {
+        try
+        {
+            Console.Write("\nDigite o Nome do Produto: ");
+            string nome = Console.ReadLine();
+            Produto produtoBuscado = produtos.Find(produto => produto.nome == nome);
+            produtoBuscado.ExibirDetalhes();
+        }
+        catch (Exception)
+        {
+
+            Console.WriteLine("Falha ao encontrar o produto!");
+        }
+    }
     public bool AdicionarProduto()
     {
         int tipoProduto = 0;

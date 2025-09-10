@@ -22,6 +22,7 @@ do
 | 3 - Remover Produto            |
 | 4 - Atualizar Quantidade       |
 | 5 - Buscar Produto por SKU     |
+| 6 - Buscar Produto por Nome     |
 | 0 - Sair                       |
 |________________________________|
 |> ");
@@ -65,6 +66,9 @@ do
             break;
         case 5:
             estoque1.BuscarProdutoPorSKU();
+            break;
+        case 6:
+            estoque1.BuscarProdutoPorNome();
             break;
     }
 
