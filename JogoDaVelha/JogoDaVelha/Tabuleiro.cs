@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace JogoDaVelha
+﻿namespace JogoDaVelha
 {
     public class Tabuleiro
     {
@@ -22,9 +16,9 @@ namespace JogoDaVelha
         {
             Console.Clear();
             Console.WriteLine(@$"{casas[0]} | {casas[1]} | {casas[2]}
----+---+---
+--+---+--
 {casas[3]} | {casas[4]} | {casas[5]}
----+---+---
+--+---+--
 {casas[6]} | {casas[7]} | {casas[8]}");
         }
 
@@ -32,7 +26,7 @@ namespace JogoDaVelha
         public bool MarcarJogada(int posicao, char simbolo)
         {
             //verifica se a posição é válida
-            if(posicao >= 1 && posicao <= 9)
+            if (posicao >= 1 && posicao <= 9)
             {
                 // verifica se a casa está marcada
                 if (casas[posicao - 1] != 'X' && casas[posicao - 1] != 'O')
@@ -66,16 +60,25 @@ namespace JogoDaVelha
 
         public bool VerificarEmpate()
         {
-            foreach(var casa in casas)
+            foreach (var casa in casas)
             {
                 // caso uma das casas não esteja preenchida retorna falso
-                if(casa != 'X' && casa != 'O')
+                if (casa != 'X' && casa != 'O')
                 {
                     return false;
                 }
             }
 
             return true;
+
+        }
+        public bool EstaVazio(int posicao)
+        {
+            if (posicao >= 1 && posicao <= 9)
+            {
+                return casas[posicao - 1] != 'X' && casas[posicao - 1] != 'O';
+            }
+            return false;
         }
     }
 }

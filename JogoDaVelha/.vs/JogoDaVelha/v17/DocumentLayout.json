@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\JogoDaVelha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\jogodavelha\\jogodavelha\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\jogodavelha\\jogodavelha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\jogodavelha\\jogodavelha\\jogadormaquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\jogadormaquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\jogodavelha\\jogodavelha\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\marcos vinicius\\desktop\\c\u00F3digos c#\\jogodavelha\\jogodavelha\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFD28CB-6EFC-40AD-A4F8-82B3F1DB6682}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 361,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "JogadorMaquina.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\JogoDaVelha\\JogoDaVelha\\JogadorMaquina.cs",
+              "RelativeDocumentMoniker": "JogoDaVelha\\JogadorMaquina.cs",
+              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\JogoDaVelha\\JogoDaVelha\\JogadorMaquina.cs",
+              "RelativeToolTip": "JogoDaVelha\\JogadorMaquina.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:50:05.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\JogoDaVelha\\JogoDaVelha\\Program.cs",
               "RelativeDocumentMoniker": "JogoDaVelha\\Program.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\JogoDaVelha\\JogoDaVelha\\Program.cs",
               "RelativeToolTip": "JogoDaVelha\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwBsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAgwKcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T12:24:11.165Z",
               "EditorCaption": ""
@@ -45,20 +62,20 @@
               "RelativeDocumentMoniker": "JogoDaVelha\\Jogador.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\JogoDaVelha\\JogoDaVelha\\Jogador.cs",
               "RelativeToolTip": "JogoDaVelha\\Jogador.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T12:17:29.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\JogoDaVelha\\JogoDaVelha\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "JogoDaVelha\\Tabuleiro.cs",
               "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\C\u00F3digos C#\\JogoDaVelha\\JogoDaVelha\\Tabuleiro.cs",
               "RelativeToolTip": "JogoDaVelha\\Tabuleiro.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T11:17:58.407Z",
               "EditorCaption": ""

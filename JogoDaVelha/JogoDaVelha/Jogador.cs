@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace JogoDaVelha
+﻿namespace JogoDaVelha
 {
     public class Jogador
     {
@@ -15,6 +9,16 @@ namespace JogoDaVelha
         { 
             Nome = nome;
             Simbolo = simbolo;
+        }
+
+        public virtual int ObterJogada(Tabuleiro tabuleiro)
+        {
+            int posicao;
+            while (!int.TryParse(Console.ReadLine(), out posicao) || posicao < 1 || posicao > 9)
+            {
+                Console.WriteLine("Entra inválida, digite um número de 1 a 9.");
+            }
+            return posicao;
         }
     }
 }
